@@ -5,7 +5,7 @@ type ReactWelcomeProps = {
   message?: String
 }
 
-export default class ReactWelcome extends React.Component<ReactWelcomeProps> {
+class ReactWelcome extends React.Component<ReactWelcomeProps> {
 
   render() {
 
@@ -99,3 +99,5 @@ export default class ReactWelcome extends React.Component<ReactWelcomeProps> {
     )
   }
 }
+
+export default ReactWelcome
