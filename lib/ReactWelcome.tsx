@@ -100,4 +100,6 @@ class ReactWelcome extends React.Component<ReactWelcomeProps> {
   }
 }
 
+export const foo = 'bar'
+
 export default ReactWelcome
