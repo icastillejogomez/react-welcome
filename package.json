@@ -1,7 +1,7 @@
 {
   "name": "react-welcome",
-  "version": "0.1.3",
-  "main": "lib/ReactWelcome.tsx",
+  "version": "0.1.4",
+  "main": "dist/bundle.js",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
