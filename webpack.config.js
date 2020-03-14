@@ -8,6 +8,11 @@ module.exports = {
     rules: [
       {
         test: /\.tsx?$/,
+        use: 'babel-loader',
+        exclude: /node_modules/,
+      },
+      {
+        test: /\.tsx?$/,
         use: 'ts-loader',
         exclude: /node_modules/,
       },
@@ -18,6 +23,7 @@ module.exports = {
   },
   output: {
     filename: 'bundle.js',
+    libraryTarget: "commonjs2",
     path: path.resolve(__dirname, 'dist'),
   },
 };
