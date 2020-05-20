@@ -1,6 +1,6 @@
 {
   "name": "react-welcome",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "main": "dist/bundle.js",
   "private": false,
   "dependencies": {
