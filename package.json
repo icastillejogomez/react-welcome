@@ -1,7 +1,8 @@
 {
   "name": "react-welcome",
-  "version": "0.2.8",
-  "main": "dist/bundle.js",
+  "version": "0.3.0",
+  "main": "dist/ReactWelcome.js",
+  "types": "./dist/ReactWelcome.d.ts",
   "private": false,
   "dependencies": {
     "@types/jest": "^24.0.0",
