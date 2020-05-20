@@ -1,0 +1,1 @@
+{"version":3,"file":"ReactWelcome.d.ts","sourceRoot":"","sources":["../lib/ReactWelcome.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAA;AAE9B,aAAK,iBAAiB,GAAG;IACvB,IAAI,CAAC,EAAE,OAAO,CAAC;IACf,OAAO,CAAC,EAAE,MAAM,CAAA;CACjB,CAAA;AAED,cAAM,YAAa,SAAQ,KAAK,CAAC,SAAS,CAAC,iBAAiB,CAAC;IAE3D,MAAM;CA2FP;AAED,eAAe,YAAY,CAAA"}
